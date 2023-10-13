@@ -5,7 +5,6 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  <h1>CMP 212 SEMESTER PROJECT</h1>
   <h1>National Citizens Records Unification Project (NCRUP)</h1>
   <h2>A Web-Based Simulation Of The Framework For Unifiying Citizen Record/Data</h2>
   <div class="button-container">
